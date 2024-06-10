@@ -1,0 +1,2 @@
+# ceviriuygulamasi
+Çeviri Uygulaması
